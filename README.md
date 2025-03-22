@@ -7,9 +7,9 @@ A ready-to-use boilerplate to kickstart your Next.js 15 projects with Material U
 - ✅ Next.js 15 setup  
 - ✅ Material UI 6 fully integrated  
 - ✅ Custom light & dark theme toggle  
-- ✅ SEO ready (Next.js head management)  
+- ✅ Pre-configured with custom theme  
 - ✅ Easily extendable & scalable folder structure  
-- ✅ Clean and minimal codebase  
+- ✅ Automatically detects and syncs with your system theme (light/dark)  
 
 ## 🛠️ Getting Started
 
