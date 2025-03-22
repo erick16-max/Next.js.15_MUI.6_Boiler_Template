@@ -26,3 +26,8 @@ npm run dev
 
 # The app will now be running on:
 http://localhost:3000
+``` <!-- <---- this is the "close" you were asking about -->
+
+---
+
+Made with ❤️ by [gegerick.com](https://www.gegerick.com)
