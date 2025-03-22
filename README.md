@@ -26,12 +26,3 @@ npm run dev
 
 # The app will now be running on:
 http://localhost:3000
-
-
-
-Made with ❤️ by gegerick.com
-
-
-
-
-
