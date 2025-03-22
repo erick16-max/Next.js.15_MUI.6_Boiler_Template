@@ -29,6 +29,7 @@ export default function Home() {
               backgroundColor: theme.palette.primary.dark,
             },
           }}
+          disabled
         >
           next.js boiler plate
         </Button>
