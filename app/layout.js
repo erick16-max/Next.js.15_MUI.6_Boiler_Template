@@ -14,10 +14,11 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Tideway Adventures",
+  title: "Next.js 15 + MUI 6 Starter Boilerplate",
   description:
-    "Tideway Adventures specialize in customized tours, thrilling safaris, serene island getaways, and comfortable accommodations",
+    "Kickstart your project effortlessly with Next.js 15 and MUI 6 fully integrated—custom themes, dark mode, and optimized setup so you can focus on building.",
 };
+
 
 export default function RootLayout({ children }) {
   return (
